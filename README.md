@@ -1,131 +1,185 @@
-# 👋 Hi, I'm Taranjeet Singh!
+<!-- ===================== HEADER ===================== -->
 
-### 💻 B.Tech CSE Student | Web Developer | AI/ML Enthusiast
+<div align="center">
 
-I'm a Computer Science Engineering student passionate about software development, problem-solving, and building technology-driven solutions to real-world problems.
+# 👋 Hey there, I'm Taranjeet Singh!
 
-I enjoy turning ideas into practical projects, exploring emerging technologies, and continuously improving my programming and development skills.
+### 💻 Computer Science Engineering Student | Developer | AI/ML Enthusiast
 
-- 🎓 Pursuing B.Tech in Computer Science Engineering
-- 💻 Interested in Web Development and Software Engineering
-- ☕ Learning Java and Data Structures & Algorithms
-- 🤖 Exploring Artificial Intelligence and Machine Learning
-- 🔐 Interested in Cybersecurity and secure application development
-- 🚀 Building projects to strengthen my practical knowledge
-- 🤝 Open to collaborating on interesting projects and hackathons
-- 📈 Focused on continuous learning and professional growth
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Projects+That+Solve+Real+Problems;Web+Development+%7C+Java+%7C+DSA;Exploring+Artificial+Intelligence+%26+ML;Learning+Something+New+Every+Day!" alt="Typing SVG" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Taranjeet07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🚀 About Me
+
+I'm a **B.Tech Computer Science Engineering student** passionate about software development, problem-solving, and building practical technology solutions.
+
+I enjoy experimenting with new technologies, participating in hackathons, and turning ideas into working projects.
+
+- 🎓 Pursuing B.Tech in Computer Science Engineering
+- 💻 Interested in software engineering and web development
+- ☕ Learning Java and Data Structures & Algorithms
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- 🔐 Interested in cybersecurity and intelligent security solutions
+- 🔧 Building IoT and sensor-based hardware projects
+- 🏆 Participating in technical competitions and hackathons
+- 🎯 Working toward software development and ML engineering opportunities
+
+**My philosophy:** Learn by building, improve through experimentation, and grow through collaboration.
+
+---
+
+## 🛠️ Technologies & Tools
 
 ### Programming Languages
-- Java
-- Python
-- JavaScript
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+</p>
 
 ### Web Development
-- HTML5
-- CSS3
-- JavaScript
-- React.js — exploring and developing my skills
 
-### Computer Science Fundamentals
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Database Management Systems
-- Computer Networks
-- Operating Systems
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+</p>
 
-### AI, Machine Learning & Cybersecurity
-- Exploring Machine Learning algorithms and model development
-- Interested in data analysis, predictive modeling, and AI applications
-- Learning about cybersecurity, threat detection, and secure systems
+### AI, Machine Learning & Data
 
-### Tools & Platforms
-- Git & GitHub
-- VS Code
-- Arduino IDE
-- Google Colab
-- Jupyter Notebook
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+</p>
+
+### Databases, Development Tools & Hardware
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🚆 Smart Railway Track Monitoring System
-An IoT-based project designed to detect railway track abnormalities and obstacles using sensors and an ESP32 microcontroller.
 
-**Key Features:**
-- Sensor-based obstacle and track-condition monitoring
-- Ultrasonic sensing and vibration analysis
-- Automated motor control and stopping mechanisms
-- Hardware integration using ESP32 and motor drivers
+An IoT-based railway monitoring prototype designed to identify obstacles and potential track abnormalities using sensors and an ESP32.
 
-**Technologies:** ESP32, Arduino IDE, C/C++, MPU6050, HC-SR04, L298N
+**Highlights**
+- Sensor-based obstacle detection
+- Vibration monitoring using MPU6050
+- Ultrasonic distance measurement
+- Motor control and automated stopping logic
+- Hardware integration with a microcontroller and motor drivers
+
+**Tech Stack:** ESP32 · Arduino · C/C++ · MPU6050 · HC-SR04 · L298N
 
 ### 🛡️ InternGuard
-An AI-powered concept focused on identifying potentially suspicious internship opportunities and helping users assess their legitimacy.
 
-**Key Features:**
-- Internship risk assessment
-- Risk-based classification and verification indicators
-- Web-based user interface
+A web-based project focused on assessing potentially suspicious internship opportunities and helping users identify listings that may require further verification.
+
+**Highlights**
+- Risk-based internship assessment
+- Classification using configurable risk thresholds
 - Backend API integration
+- Web-based interface for presenting assessment results
 
-**Technologies:** Python, FastAPI, JavaScript, HTML, CSS
+**Tech Stack:** Python · FastAPI · HTML · CSS · JavaScript
 
-### 🤖 AI/ML Projects
-Exploring machine learning through practical projects involving data preprocessing, model training, evaluation, and prediction.
+### 🤖 Machine Learning & AI Projects
 
-**Areas of Interest:**
-- Predictive analytics
+Exploring practical machine learning applications involving data preparation, model training, evaluation, and prediction.
+
+**Areas of Interest**
 - Fraud detection
+- Predictive analytics
 - Financial market analysis
 - Intelligent decision-support systems
 
-*Project descriptions and technologies will evolve as development progresses.*
+> Project descriptions reflect the intended scope of these projects. Check individual repositories for current implementation details and working demonstrations.
 
 ---
 
-## 🏆 Achievements & Activities
+## 🏆 Achievements & Experience
 
-- 🥉 Secured **3rd place at Gandhigiri 2025** with an Arduino-based smart lock project.
-- 🧠 Participated in hackathons focused on AI, machine learning, web development, and cybersecurity.
+- 🥉 **3rd Place — Gandhigiri 2025:** Arduino-based smart lock project.
+- 🧠 Participated in technology-focused hackathons involving AI/ML, web development, and cybersecurity.
 - 📜 Earned an NPTEL certificate in Programming in Java.
-- 🤝 Contributed to college technical activities through the E-Cell Developer Team.
-- 🔧 Building practical projects to connect academic concepts with real-world applications.
+- 🤝 Associated with the E-Cell Developer Team.
+- 🔧 Developing hands-on experience through hardware, IoT, and software projects.
 
 ---
 
-## 📚 Currently Learning
+## 📊 GitHub Statistics
 
-- Advanced Java and Data Structures & Algorithms
-- Full-Stack Web Development
-- Machine Learning and model deployment
-- Problem-solving and coding interview preparation
-- Software development best practices
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Taranjeet07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taranjeet07&layout=compact&theme=tokyonight&hide_border=true" alt="Top programming languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Taranjeet07&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
 
 ---
 
-## 🎯 My Goals
+## 🌱 Currently Learning
 
-- Build impactful projects that solve real-world problems.
-- Strengthen my foundations in programming and computer science.
-- Develop production-ready web applications and machine learning systems.
-- Collaborate with developers and participate in open-source projects.
-- Prepare for software development and machine learning engineering opportunities.
+- 📌 Java and Data Structures & Algorithms
+- 🌐 Full-stack web development
+- 🤖 Machine learning fundamentals and model deployment
+- 🧩 Problem-solving and coding interview preparation
+- 🔐 Cybersecurity fundamentals
+- 🛠️ Software development and project documentation
+
+---
+
+## 🎯 Goals
+
+- Build useful, real-world software projects.
+- Strengthen my programming and computer science fundamentals.
+- Develop reliable web applications and machine learning systems.
+- Contribute to open-source projects.
+- Collaborate with developers and participate in hackathons.
+- Prepare for software development and machine learning internships.
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with fellow developers, learning from the community, and collaborating on innovative projects.
+<div align="center">
 
-📌 **GitHub:** https://github.com/Taranjeet07
+<a href="https://github.com/Taranjeet07">
+  <img src="https://img.shields.io/badge/GitHub-Taranjeet07-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+</a>
 
-⭐ If you find my projects interesting, feel free to explore my repositories!
+</div>
 
 ---
 
-### 💡 "Learn continuously. Build consistently. Improve every day."
+<div align="center">
+
+### 💡 "Dream. Build. Learn. Repeat."
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and follow my journey as a developer.
+
+</div>
