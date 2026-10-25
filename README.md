@@ -166,17 +166,21 @@ Exploring practical machine learning applications involving data preparation, mo
 
 ## 🤝 Let's Connect
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/Taranjeet07">
+    <img src="https://img.shields.io/badge/GitHub-Taranjeet07-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/taranjeet-singh-a00479366/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/taranjeet_singh_26/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
-<a href="https://github.com/Taranjeet07">
-  <img src="https://img.shields.io/badge/GitHub-Taranjeet07-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
-</a>
-
-</div>
-
----
-
-<div align="center">
+<p align="center">
+  💬 Open to tech discussions, collaborations, and exciting projects!
+</p>
 
 ### 💡 "Dream. Build. Learn. Repeat."
 
